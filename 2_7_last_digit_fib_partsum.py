@@ -1,7 +1,8 @@
 """
-Task. Given two non-negative integers 𝑚 and 𝑛, where 𝑚 ≤ 𝑛, find the last digit of the sum 𝐹𝑚 + 𝐹𝑚+1 + ···+𝐹𝑛.
-Input Format. The input consists of two non-negative integers 𝑚 and 𝑛 separated by a space. Constraints. 0 ≤ 𝑚 ≤ 𝑛 ≤ 1018.
-Output Format. Output the last digit of 𝐹𝑚 + 𝐹𝑚+1 + · · · + 𝐹𝑛.
+Task. Given two non-negative integers m and n, where m <= n, find the last digit of the sum Fm + Fm+1 + ···+Fn.
+Input Format. The input consists of two non-negative integers m and n separated by a space.
+Constraints. 0 <= m <= n <= 1018.
+Output Format. Output the last digit of Fm + Fm+1 + · · · + Fn.
 """
 
 def last_digit_fib(n, memo={}):

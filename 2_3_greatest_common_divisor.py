@@ -1,8 +1,8 @@
 """
-Task. Given two integers 𝑎 and 𝑏, find their greatest common divisor.
-Input Format. The two integers 𝑎, 𝑏 are given in the same line separated by space.
-Constraints. 1≤𝑎,𝑏≤2·109.
-Output Format. Output GCD(𝑎, 𝑏).
+Task. Given two integers a and b, find their greatest common divisor.
+Input Format. The two integers a, b are given in the same line separated by space.
+Constraints. 1<=a,b<=2·109.
+Output Format. Output GCD(a, b).
 """
 
 def EuclidGCD(a, b):

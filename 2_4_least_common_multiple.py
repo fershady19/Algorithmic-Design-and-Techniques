@@ -1,8 +1,8 @@
 """
-Task. Given two integers 𝑎 and 𝑏, find their least common multiple.
-Input Format. The two integers 𝑎 and 𝑏 are given in the same line separated by space.
-Constraints. 1≤𝑎,𝑏≤2·109.
-Output Format. Output the least common multiple of 𝑎 and 𝑏.
+Task. Given two integers a and b, find their least common multiple.
+Input Format. The two integers a and b are given in the same line separated by space.
+Constraints. 1<=a,b<=2·109.
+Output Format. Output the least common multiple of a and b.
 """
 
 def EuclidGCD(a, b):

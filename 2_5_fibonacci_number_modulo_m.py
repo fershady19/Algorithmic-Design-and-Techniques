@@ -1,6 +1,8 @@
 """
-Task. Given two integers 𝑛 and 𝑚, output 𝐹𝑛 mod 𝑚 (that is, the remainder of 𝐹𝑛 when divided by 𝑚). Input Format. The input consists of two integers 𝑛 and 𝑚 given on the same line (separated by a space). Constraints. 1≤𝑛≤1018,2≤𝑚≤105.
-Output Format. Output 𝐹𝑛 mod 𝑚.
+Task. Given two integers n and m, output Fn mod m (that is, the remainder of Fn when divided by m).
+Input Format. The input consists of two integers n and m given on the same line (separated by a space).
+Constraints. 1<=n<=1018,2<=m<=105.
+Output Format. Output Fn mod m.
 """
 
 def fib(n, memo={}):
