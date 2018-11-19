@@ -24,7 +24,7 @@ def grp_by_d(num_lis):
 def maxi(dig_grps):
     for l in dig_grps:
         for i in range(1, len(l)-1):
-            
+
 num_lis = get_data()
 grp = grp_by_d(num_lis)
 print(grp)
